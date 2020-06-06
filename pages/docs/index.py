@@ -1,4 +1,4 @@
-def template():
+def template(data):
   return """
 
   """
